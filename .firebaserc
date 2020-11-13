@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "student-registration-for-59867": {
+      "hosting": {
+        "tdf": [
+          "student-registration-for-59867"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "student-registration-for-59867"
+  }
+}

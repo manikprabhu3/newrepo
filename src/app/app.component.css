@@ -1,0 +1,22 @@
+.bg {
+    background-image: url("https://www.ebuyer.com/blog/wp-content/uploads/2017/08/student-studying.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+input {
+    background: transparent;
+
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    color:rgb(120,222,200);
+    font-weight: 900;
+    text-align: center;
+}
+
+label {
+    font-weight: bold;
+}

@@ -1,0 +1,49 @@
+* {
+    box-sizing: border-box;
+}
+
+.cls {
+    background-image: url("https://www.ellucian.com/sites/default/files/styles/max_width_1920/public/uploads/images/2018/09/insights-article-meeting-students-expectations-for-a-digital-campus.jpg?itok=objiC9GM");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 30px;
+    padding-top: 90px;
+    padding-bottom: 20px;
+    padding-right: 400px;
+    padding-left: 50px;
+}
+
+.cont {
+    background: whitesmoke;
+    padding: 100px;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+}
+
+.bg {
+    
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+
+input {
+    background: transparent;
+    
+    border-color: teal;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    color:rgb(120,222,200);
+    font-weight: 900;
+    text-align: center;
+}
+
+label {
+    font-weight: bold;
+}
